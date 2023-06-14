@@ -1,0 +1,13 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "playwright": "^1.35.0"
+  }
+}
+
