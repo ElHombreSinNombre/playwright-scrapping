@@ -1,10 +1,12 @@
-# Guide
+# Simple scrapping
 
-Technologies
+## Technologies
 
 - **[Playwright](https://www.npmjs.com/package/playwright)**
 
-Run
+## How to deploy
 
-- _npm install_
-- _npm run dev_
+```bash
+npm install
+npm run dev
+```
