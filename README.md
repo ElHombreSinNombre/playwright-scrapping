@@ -6,7 +6,10 @@
 
 ## How to deploy
 
+Run the following commands in your terminal
+
 ```bash
 npm install
 npm run dev
 ```
+
